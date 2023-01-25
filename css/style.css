@@ -1,0 +1,32 @@
+body {
+  color: white !important;
+  background-color: #111 !important;
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.brand-font {
+  font-size: 1.8rem !important;
+  font-family: "Josefin Sans", sans-serif !important;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: #08aeea;
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+}
+
+.content {
+  background-color: #191919;
+  border-radius: 1rem;
+  margin: 2rem 0;
+}
+
+.josefin-font {
+  font-family: "Josefin Sans", sans-serif !important;
+}
+
+.foto img {
+  width: 100%;
+}
+
+.resume {
+  line-height: 2rem;
+}
